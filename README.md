@@ -55,22 +55,6 @@ https://cocoa-land-bi-portal.vercel.app/
 - Final presentation slides
 - Technical documentation
 
-
-&nbsp;
-&nbsp;
-
-
-## *📊 KPIs & Metrics for Project Success*
-
-- Data completeness %
-- Data accuracy score
-- Forecast error (MAE / MAPE / RMSE)
-- Supply chain efficiency indicators
-- Delivery performance metrics
-- Inventory turnover ratio
-- Order fulfillment rate
-- Dashboard usability & clarity
-- Insight quality & actionability
   
 &nbsp;
 &nbsp;
@@ -89,6 +73,7 @@ https://cocoa-land-bi-portal.vercel.app/
 - Google Gemini
 - Claude Code
 - ChatGPT
+- Visual Studio
  
 &nbsp;
 &nbsp;
