@@ -15,15 +15,6 @@ https://cocoa-land-bi-portal.vercel.app/
 &nbsp;
 
 
-## *👥 Team Members*
-
-1. Ahmed Tareq (Team Leader)
-2. Mohamed Omar
-3. Anas Saeed
-4. Zeyad Ashraf
-5. Khaled Ahmed
-
-
 &nbsp;
 &nbsp;
 
@@ -68,17 +59,6 @@ https://cocoa-land-bi-portal.vercel.app/
 &nbsp;
 &nbsp;
 
-## *🎯 Roles & Responsibilities*
-
-- Problem Definition	/ Ahmed Tareq
-- Data Cleaning & ETL	/ Mohamed Omar
-- EDA & Statistical Analysis	/ Anas Saeed
-- Forecasting Models	/ Zeyad Ashraf
-- Dashboard & Reporting	/ Khaled Ahmed
-
-
-&nbsp;
-&nbsp;
 
 ## *📊 KPIs & Metrics for Project Success*
 
@@ -95,15 +75,6 @@ https://cocoa-land-bi-portal.vercel.app/
 &nbsp;
 &nbsp;
 
-
-## *👨‍🏫 Instructor*
-
-Abdelrahman Ashour
-
-
-
-&nbsp;
-&nbsp;
 
 ## *🔧 Tools & Technologies (Planned)*
 
