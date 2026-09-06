@@ -14,10 +14,6 @@ https://cocoa-land-bi-portal.vercel.app/
 &nbsp;
 &nbsp;
 
-
-&nbsp;
-&nbsp;
-
 ## *🗺️ Project Plan*
 
 **Phase 1 — Problem Definition & Data Collection**
